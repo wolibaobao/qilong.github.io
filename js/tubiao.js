@@ -25,7 +25,7 @@ $(function () {
         },
         series: [{
             name: 'Master',
-            data: [90, 80, 80, 85, 85]
+            data: [90, 80, 80, 75, 70]
         }]
     });
     $('#container2').highcharts({
